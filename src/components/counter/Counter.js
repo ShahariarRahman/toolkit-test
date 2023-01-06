@@ -36,11 +36,6 @@ export function Counter() {
           Add Amount
         </button>
         <button
-          className={styles.asyncButton}
-        >
-          Add Async
-        </button>
-        <button
           className={styles.button}
         >
           Add If Odd
